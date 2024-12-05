@@ -1,1 +1,1 @@
-CREATE DATABASE IF NOT EXISTS `startweb` CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+CREATE DATABASE IF NOT EXISTS `startweb3tp` CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
